@@ -7,6 +7,9 @@
     <groupId>com.github.jungle.learn.spring</groupId>
     <artifactId>spring-security-oauth</artifactId>
     <version>0.0.1.RELEASE</version>
+    <modules>
+        <module>authorization-server</module>
+    </modules>
     <packaging>pom</packaging>
     <description>一个spring security oauth 的认证</description>
 
